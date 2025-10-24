@@ -1,4 +1,4 @@
-name: CICI piple
+name: CICD piple
 
 on:
   push:
